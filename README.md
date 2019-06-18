@@ -1,3 +1,5 @@
+### Exploratory Data Analysis
+### (Coursera - Data Science specialization)
 ## Introduction
 
 This assignment uses data from
